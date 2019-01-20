@@ -693,12 +693,7 @@ ol {
 	line-height: normal;
 }
 
-.video {
-	position: relative;
-	height: 0;
-	padding: 30px 0 56.25%;
-	overflow: hidden;
-}
+
 .video iframe {
 	display: block;
 	margin: 0 auto;
