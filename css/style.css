@@ -694,15 +694,10 @@ ol {
 }
 
 .video {
-	position: relative;
-	height: 0;
-	padding: 30px 0 56.25%;
-	overflow: hidden;
-}
-
-.video iframe {
 	margin: 0px auto;
 }
+
+
 
 /*---------------------
 	Home 2 Style
